@@ -1,0 +1,12 @@
+[user]
+	name = Alan Donovan
+	email = adonovan@github.com
+[github]
+	user = adonovan
+[push]
+	default = simple
+[alias]
+	co = checkout
+	br = branch
+	ci = commit
+	st = status
